@@ -4,7 +4,7 @@ import ChatIcon from "@material-ui/icons/Chat";
 import MoreVertIcon from "@material-ui/icons/MoreVert";
 import SearchIcon from "@material-ui/icons/Search";
 import * as EmailValidator from "email-validator";
-import { auth, db } from "../firebase";
+import { auth, db } from "../../firebase";
 import { useCollection } from "react-firebase-hooks/firestore";
 import { useAuthState } from "react-firebase-hooks/auth";
 import Chat from "./Chat";

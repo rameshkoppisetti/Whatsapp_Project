@@ -4,7 +4,7 @@ import styled from "styled-components";
 import getRecipientEmail from "../../utils/getRecipientEmail";
 import ChatScreen from "../components/ChatScreen";
 import Sidebar from "../components/Sidebar";
-import { auth, db } from "../firebase";
+import { auth, db } from "../../firebase";
 function Chat({ chat, messages }) {
   const [user] = useAuthState(auth);
   //console.log(chat);

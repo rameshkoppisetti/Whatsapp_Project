@@ -4,7 +4,7 @@
 
 ![](assets/whclone4.png)
 
-Whatsapp Clone provides an in depth view of implementation on how to create a full-stack, mobile, hybrid web application from scratch. This repository covers implementation of 3 major platform's mainly Android, IOS & Web using React Native & MERN stack 🔥. 
+Whatsapp Clone provides an overview on how to create a full-stack web application from scratch. This repository covers implementation of Whatsapp web using Google signin⚡.
 
 ### You can see the following features in action in this repository,
 * *Google Authentication*
@@ -12,7 +12,7 @@ Whatsapp Clone provides an in depth view of implementation on how to create a fu
 * *Instant & Realtime textual One to One chat*
 * *User's Online/Offline availability*
 * *Last Seen time*
-* *WhatsApp Web with realtime chat.
+* *WhatsApp Web with realtime chat.*
 
 ```
 If you like the work then don't forget to hit that ⭐ button to show some appreciation & love

@@ -45,6 +45,15 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+## Author
+
+### *Ramesh Koppisetti*
+*I am a passionate Self-Software Engineer which likes to push himself on various fronts of technologies.*  
+
+For more exciting updates follow me,
+
+<a href="https://www.linkedin.com/in/rameshjr/" target="_blank"><img src="https://github.com/yuvraj24/LiveSmashBar/blob/master/images/linkedin.png" width="40" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/rameshkoppisetti" target="_blank"><img src="https://github.com/yuvraj24/LiveSmashBar/blob/master/images/github.png" height="40"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ## Reference
 This application was developed with the help  Sonny Sangha (Papa React)
 - here is the youtube tutorial [Build a Whatsapp clone using Next.js](https://youtu.be/svlEVg0To_c)

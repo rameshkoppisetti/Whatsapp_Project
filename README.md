@@ -1,6 +1,5 @@
 # WhatsApp Clone ⚡
 
-![Platform - Web](https://img.shields.io/badge/platform-Android%20%7C%20IOS%20%7C%20Web-green.svg) 
 
 ![](assets/whclone4.png)
 
